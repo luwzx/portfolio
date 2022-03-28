@@ -1,2 +1,2 @@
-# portfolio
-Portfolio Técnico, turma 2B do ano 2022.
+# Portfolio
+Bem vindo ao meu portfólio técnico do ano 2022. Me chamo Luiza Iahn, tenho 16 anos e estou na turma 2B.
