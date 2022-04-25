@@ -55,6 +55,15 @@ Aprendizagens: Sistemas Operacionais com um pézinho para o SHELL.
 
 
 [Fundamentos de Design](https://github.com/luwzx/portfolio/blob/Portfolio/Fundamentos%20de%20Design/Untitled_compressed.pdf)
+Escolhi essa atividade como autoria pois foi um conteúdo muito bom de conhecer e estudar, adorei conhecer as harmonias de cores e juntar ao que mais gosto que é fazer telinhas criativas.
+Não tive dificuldades em realizar essa atividade.
+Aprendizagens: Harmonia das cores, trabalho em equipe, comunicação...
 
+
+
+# Autoavaliação 
+
+Certamente o que posso evidenciar de dificuldade nesse trimestre foi a falta de concentração em aula, sempre tive uma certa dificuldade em me concentrar e durante as aulas não pude deixar despercebido. A sala está muito barulhenta, com pouco respeito aos professores que estão despenhando  e desenvolvendo as aulas e aos alunos que tentam se concentrar, por parte de alguns alunos ou por parte de toda a sala.
+ Mesmo nas explicações ou até mesmo no "intervalo" livre para fazer as atividades proposta em aula, há muito barulho. Muitas vezes deixo de fazer as atividades em sala de aula por conta disso e acabo não fazendo em casa pois não tenho computador no momento.
 
 
