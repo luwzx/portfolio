@@ -53,3 +53,8 @@ Escolhi essa atividade como autoria pois é um conteúdo que me interesso e tive
 Não tive dificuldades em realizar, sempre tive apoio ao realizar perguntas e o conteúdo esteve sempre disponível para consulta.
 Aprendizagens: Sistemas Operacionais com um pézinho para o SHELL. 
 
+
+[Fundamentos de Design](https://github.com/luwzx/portfolio/blob/Portfolio/Fundamentos%20de%20Design/Untitled_compressed.pdf)
+
+
+
