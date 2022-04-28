@@ -67,3 +67,6 @@ Certamente o que posso evidenciar de dificuldade nesse trimestre foi a falta de 
  Mesmo nas explicações ou até mesmo no "intervalo" livre para fazer as atividades proposta em aula, há muito barulho. Muitas vezes deixo de fazer as atividades em sala de aula por conta disso e acabo não fazendo em casa pois não tenho computador no momento.
 
 
+# Validação do Portfólio
+
+Validação feita no dia 28 de Abril de 2022 pela professora Maria: "Esta tudo certo e completo".
