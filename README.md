@@ -40,7 +40,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 # Autorias
-
+## Primeito trimestre
 [Autoria Lógica Computacional](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/Autoria.java) 
 
 Essa atividade foi pensanda com com o objetivo de auxiliar professores na hora de cadastrar e buscar alunos.
@@ -59,6 +59,15 @@ Escolhi essa atividade como autoria pois foi um conteúdo muito bom de conhecer 
 Não tive dificuldades em realizar essa atividade.
 Aprendizagens: Harmonia das cores, trabalho em equipe, comunicação...
 
+## Segundo Trimestre
+
+[Autoria anotações, Lógica computacional](https://github.com/luwzx/portfolio/wiki)
+Anotações realizadas no caderno como forma de revisar o conteúdo visto nas aulas de Lógica computacional. Elaborei essas anotações para estudar para a prova trimestral, fazer anotações me ajudam a memorizar e entender os conteúdos de uma forma mais rápida e prática. 
+Não tive dificuldades ao elaborar as anotações.
+
+[Autoria anotações, Fundamento de Redesl](https://github.com/luwzx/portfolio/wiki/Autoria-Fundamento-de-Redes)
+Anotações realizadas no caderno durante as aulas. Fiz as anotações enquanto o conteúdo era explicado, para mim a melhor forma de revisar o conteúdo depois é tê-lo no caderno para sempre dar uma revisada.
+Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites.
 
 
 # Autoavaliação 
