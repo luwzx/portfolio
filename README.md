@@ -76,7 +76,8 @@ Aprendizagens: Harmonia das cores, trabalho em equipe, comunicação...
 [Autoria anotações, Lógica computacional](https://github.com/luwzx/portfolio/wiki)
 
 
-[Autoria anotações, Fundamento de Redesl](https://github.com/luwzx/portfolio/wiki/Autoria-Fundamento-de-Redes)
+[Autoria anotações, Fundamento de Redes](https://github.com/luwzx/portfolio/wiki/Autoria-Fundamento-de-Redes)
+
 Anotações realizadas no caderno durante as aulas. Fiz as anotações enquanto o conteúdo era explicado, para mim a melhor forma de revisar o conteúdo depois é tê-lo no caderno para sempre dar uma revisada.
 Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites.
 
