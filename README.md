@@ -16,6 +16,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 # Atividades
+## Primeiro Trimestre
 <h2> Fundamentos de TI </h2>
 
  [Manipulação de Arquivos](https://github.com/luwzx/portfolio/blob/Portfolio/Fundamentos%20de%20TI/Luiza%20Silva%20-%20Atividade%20de%20fixa%C3%A7%C3%A3o%20manipula%C3%A7%C3%A3o%20de%20arquivos.pdf)
@@ -37,6 +38,12 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 - Escolhi essa atividade pois trabalhos bastante em equipe e achei que tivemos um resultado bom.
 - Não tive  dificuldades em realizá-la. 
 - Aprendizagens: Trabalho em equipe, a boa comunicação que foi desenvolvida com o trabalho e funcionalidades da plataforma Figma.
+
+## Segundo Trimestre
+<h2> Lógica Computacional</h2>
+[Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
+- Já haviamos feito esse código em outras aulas, mas escolhi ele por termos feito o mesmo código, mas com uma estrutura de repetição que não usamos muito nas aulas, o FOR. Aprendi a utilizar a estrutura de repetição FOR e tive um pouco de dificuldades no inicio, porém vi que ele facilitou minha vida reduzindo algumas linha sde código...
+
 
 
 # Autorias
