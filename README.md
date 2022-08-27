@@ -41,6 +41,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 ## Segundo Trimestre
 <h2> Lógica Computacional</h2>
+
 [Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
 - Já haviamos feito esse código em outras aulas, mas escolhi ele por termos feito o mesmo código, mas com uma estrutura de repetição que não usamos muito nas aulas, o FOR. Aprendi a utilizar a estrutura de repetição FOR e tive um pouco de dificuldades no inicio, porém vi que ele facilitou minha vida reduzindo algumas linha sde código...
 
