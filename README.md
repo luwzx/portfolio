@@ -16,7 +16,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 # Atividades
-## Primeiro Trimestre
+### Primeiro Trimestre
 <h2> Fundamentos de TI </h2>
 
  [Manipulação de Arquivos](https://github.com/luwzx/portfolio/blob/Portfolio/Fundamentos%20de%20TI/Luiza%20Silva%20-%20Atividade%20de%20fixa%C3%A7%C3%A3o%20manipula%C3%A7%C3%A3o%20de%20arquivos.pdf)
