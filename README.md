@@ -24,7 +24,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 - Não tive muitas dificuldades em realizá-la, achei um tempo muito curto para finalizar em sala.
 - Aprendizagens: Novos comandos do Git Bahs sobre manipulação de arquivos.
 
-<h2> Lógica Computacional</h2>
+<h3> Lógica Computacional</h3>
 
 [Números Pares](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPares.java)
 - Escolhi essa atividade pois achei simples e muito útil para o cotidiano.
@@ -32,7 +32,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 - Aprendizagens: Revi estruturas condicionais  e estrutura de repetição, mas o principal para mim foi rever o "	System.out.println" que não me lembrava.
 
 
-<h2> Fundamentos de Design</h2>
+<h3> Fundamentos de Design</h3>
 
 [Atividade Figma](https://github.com/luwzx/portfolio/blob/Portfolio/Fundamentos%20de%20Design/Untitled_compressed.pdf)
 - Escolhi essa atividade pois trabalhos bastante em equipe e achei que tivemos um resultado bom.
@@ -40,26 +40,26 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 - Aprendizagens: Trabalho em equipe, a boa comunicação que foi desenvolvida com o trabalho e funcionalidades da plataforma Figma.
 
 ## Segundo Trimestre
-<h2> Lógica Computacional</h2>
+<h3> Lógica Computacional</h3>
 
 [Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
 - Já haviamos feito esse código em outras aulas, mas escolhi ele por termos feito o mesmo código, mas com uma estrutura de repetição que não usamos muito nas aulas, o FOR. Aprendi a utilizar a estrutura de repetição FOR e tive um pouco de dificuldades no inicio, porém vi que ele facilitou minha vida reduzindo algumas linha sde código...
 
 
-<h2> Fundamento de Redes </h2>
+<h3> Fundamento de Redes </h3>
 
 [Fundamento de Redes, IPS](https://github.com/luwzx/portfolio/wiki/Fundamento-de-Redes)
 
 ## Terceiro Trimestre
-<h2> Lógica Computacional</h2>
+<h3> Lógica Computacional</h3>
 
 [Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
 
 
-<h2> Fundamento de Redes </h2>
+<h3> Fundamento de Redes </h3>
 
 
-<h2> Banco de Dados </h2>
+<h3> Banco de Dados </h3>
 
 
 # Autorias
