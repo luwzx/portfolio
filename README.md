@@ -50,6 +50,17 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 [Fundamento de Redes, IPS](https://github.com/luwzx/portfolio/wiki/Fundamento-de-Redes)
 
+## Terceiro Trimestre
+<h2> Lógica Computacional</h2>
+
+[Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
+
+
+<h2> Fundamento de Redes </h2>
+
+
+<h2> Banco de Dados </h2>
+
 
 # Autorias
 ## Primeito trimestre
@@ -81,6 +92,9 @@ Aprendizagens: Harmonia das cores, trabalho em equipe, comunicação...
 Anotações realizadas no caderno durante as aulas. Fiz as anotações enquanto o conteúdo era explicado, para mim a melhor forma de revisar o conteúdo depois é tê-lo no caderno para sempre dar uma revisada.
 Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites.
 
+
+
+## Terceiro Trimestre 
 
 # Autoavaliação 
 
