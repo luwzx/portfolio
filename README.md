@@ -52,7 +52,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 ## Terceiro Trimestre
 <h3> Lógica Computacional</h3>
--  Os três códigos abaixo são de uma única atividade, e quis separar para ficar mais visível. Escolhi a mesma por se tratar de um conteúdo imporatnte que ainda teremos mais contato no terceiro ano e eu consegui aprender ela por partes, com a orientação do professor, então não tive muita dificuldade. Aprendi também a criar um sistema de cadastro, onde sempre tive vontade de aprender por ser um sistema que usamos muito hoje em dia para facilitar dia a dia.
+- Os três códigos abaixo são de uma única atividade, e quis separar para ficar mais visível. Escolhi a mesma por se tratar de um conteúdo imporatnte que ainda teremos mais contato no terceiro ano e eu consegui aprender ela por partes, com a orientação do professor, então não tive muita dificuldade. Aprendi também a criar um sistema de cadastro, onde sempre tive vontade de aprender por ser um sistema que usamos muito hoje em dia para facilitar dia a dia.
 
 
 [Herança - Aluno ](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/Heran%C3%A7a%20Aluno.java)
@@ -60,6 +60,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 [Herança Objetos - Cadastro  ](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/Heran%C3%A7a%20Objeto.java)
 
 [Herança Objetos - Pessoa  ](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/Heran%C3%A7a%20Pessoa.java)
+
 
 
 - A atividade abaixo é referente ao mesmo conteúdo das mesmas atividades de cima, o conteúdo "Orientação à Objetos" e eu dei continuidade em meu sistema de cadastro com a criação dos botões "Remover" e "Editar" e também de uma forma mais visual com o jframe. 
