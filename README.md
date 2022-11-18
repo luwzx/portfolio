@@ -91,8 +91,13 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 
+
+- Os três links abaixo são de uma única atividade, onde no primeiro link analisei as posibilidades de criação das entidades para logo em seguida criar o modelo não relacional
+
 [Base de analise ao banco de dado da consessionária](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/Banco%20de%20Dados%20Concession%C3%A1ria%20%20-%20P%C3%A1gina1.pdf)
-[]()
+
+
+[Modelo relacional](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/Captura%20de%20tela%202022-11-10%20092822.png)
 []()
 
 
