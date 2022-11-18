@@ -53,7 +53,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 ## Terceiro Trimestre
 <h3> Lógica Computacional</h3>
 
-[Números primos com FOR](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/N%C3%BAmerosPrimos.java)
+[Orientação à objetos - Herança ](https://github.com/luwzx/portfolio/blob/Portfolio/L%C3%B3gicaComputacional/Heran%C3%A7a.java)
 
 
 <h3> Fundamento de Redes </h3>
