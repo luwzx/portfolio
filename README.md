@@ -81,6 +81,8 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 <h3> Fundamento de Redes </h3>
 
 
+[Planta Potência de sinal Wi-fi ](https://www.figma.com/file/yABLINgLi70McnC3PgdU8T/Untitled?node-id=0%3A1&t=GKhKMbMSnBdBCJ60-0)
+
 <h3> Banco de Dados </h3>
 
 - Escolhi essa atividade pois sempre tive facilidade com a linguagem SQL, porém estava a muito tempo sem revisa-lá e tinha me esquecido de como era seu funcionamento e foi muito bom e satisfatório me relembrar de como se cria tabelas, como podemos criar uma chave primária e como é o seu funcionamento. 
