@@ -1,0 +1,11 @@
+Olá boa tarde, eu me chamo Luiza, nós desenvolvemos esse projeto com o Arduino com o intuito de mostrar as inúmeras possibilidades de criação que o Arduino dá e mostrar como a tecnologia é leve, intuitiva e divertida, não sendo complicada.
+Esses são os principais componentes utilizados: 
+Arduino: O principal componente, onde podemos programar e carregar o código para o Arduino executar.
+Matriz de Contato: Onde conectamos o arduino e os componentes (Como o LED, Buzzer, Resistor…)
+Buzzer: Reproduz sons.
+Resistor: Controla a corrente elétrica para que o LED não queime e funcione.
+Led;
+Cabos Fêmea e Macho: Servem para fazer conexão entre a Matriz e Arduino.
+2 telas LCD: Para exibir o gráfico do jogo.
+E mostra como funciona a caixa e o jogo ( *Convidem as pessoas para ver o circuito e jogar!!) *
+
