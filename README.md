@@ -92,13 +92,14 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 
-- Os três links abaixo são de uma única atividade, onde no primeiro link analisei as posibilidades de criação das entidades para logo em seguida criar o modelo não relacional. C
+- Os três links abaixo são de uma única atividade, onde no primeiro link analisei as posibilidades de criação das entidades para logo em seguida criar o modelo não relacional. Escolhi essas atividades pois aprendi e revisei todos os conceitos vistos até o momento e foi muito bom usar todos eles para elaborar uma única atividade completa. Não tive dificuldades em realizar a atividade pelo conteúdo, sempre que necessitava a professora estava ajudando e me auxiliando, mas por parte para realizar o trabalho em grupo, a integrante que estava comigo não presta atenção na aula, fez do jeito que ela achou que estava certo e não se ajudou em pedir auxilio da professora e eu tive que fazer a parte dela sozinha.
 
 [Base de analise ao banco de dado da consessionária](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/Banco%20de%20Dados%20Concession%C3%A1ria%20%20-%20P%C3%A1gina1.pdf)
 
 
 [Modelo relacional](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/Captura%20de%20tela%202022-11-10%20092822.png)
-[]()
+
+[Modelo não relacional - SQL](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/C%C3%B3digo%20SQL%20Concession%C3%A1ria.sql)
 
 
 # Autorias
@@ -134,6 +135,7 @@ Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites
 
 
 ## Terceiro Trimestre 
+
 
 # Autoavaliação 
 
