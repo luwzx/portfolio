@@ -135,6 +135,20 @@ Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites
 
 
 ## Terceiro Trimestre 
+ 
+ - Escolhi como autoria o projeto do Mundo Senai e também outra autoria com o mesmo tema, o roteiro que eu desenvolvi para apresentar o projeto. 
+
+- O roteiro explica nosso projeto como funciona, como também a funcionalidade de cada componente utilizado.
+Escolhi o roteiro como autoria pois para desenvolver o mesmo estava pondo em prática várias habilidades e competências , como a proatividade, o altruísmo e trabalho em grupo por fazer isso pela nossa equipe para se desenvolver e entregar um bom resultado aos visitantes e também  a  minha capacidade de raciocínio lógico para pensar em cada detalhe de forma sucinta. Não tive dificuldades em realizar o roteiro. Abaixo segue roteiro desenvolvido para apresentar o projeto Ardudino:
+
+[Roteiro Mundo Senai](https://github.com/luwzx/portfolio/blob/Portfolio/Autorias%20T%C3%A9cnicas/Roteiro%20Mundo%20Senai)
+
+
+
+- Coloquei abaixo do código a caixinha do Ardudino já finalizada, durante as semanas de preparação ao Mundo Senai eu pensei e fiz a caixinha que seria exibida ao público. Escolhi a caixinha como autoria pois cada detalhe escolhido foi pensando com um propósito, a cor azul sinaliza e traz a sensação de harmonia, segurança e tecnologia, além de querer representar o Arduino. Os fios dourados que percorrem a caixa, servem para representar um circuito elétrico de uma placa, além de trazer um contraste e visibilidade para a caixa...
+
+[Caixinha e projeto finalizado](https://github.com/luwzx/portfolio/blob/Portfolio/Autorias%20T%C3%A9cnicas/WhatsApp%20Video%202022-11-20%20at%2014.06.04%20(1).mp4)
+
 
 
 # Autoavaliação 
