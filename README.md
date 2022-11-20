@@ -80,8 +80,13 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 <h3> Fundamento de Redes </h3>
 
+- Abaixo segue link de duas atividades, a primeira é a planta do térreo e do primeiro andar do bloco 5, desenvolvido no figma e no excel, escolhi elas pois foi muito divertido e diferente achar a potência de sinal Wi-fi pela escola e montar gráficos da superfície, eu não sabia como achar essa potência e achei imporatnte tomar conhecimento da mesma. A única dificuldade que tive foi com os integrantes do time que estavam super desorientados em relação ao conteúdo e na hora de montar a planta no figma não queriam ajudar e fazer de qualquer forma.
+
 
 [Planta Potência de sinal Wi-fi ](https://www.figma.com/file/yABLINgLi70McnC3PgdU8T/Untitled?node-id=0%3A1&t=GKhKMbMSnBdBCJ60-0)
+
+
+[Gráfico de Superfície](https://classroom.google.com/c/NDY5MzM1NDQyNjM4/a/NDkxNjI1MDk4MTQx/details)
 
 <h3> Banco de Dados </h3>
 
