@@ -92,7 +92,7 @@ Espero e me vejo com inúmeros novos valores a me acrescentar, até porque eu vo
 
 
 
-- Os três links abaixo são de uma única atividade, onde no primeiro link analisei as posibilidades de criação das entidades para logo em seguida criar o modelo não relacional
+- Os três links abaixo são de uma única atividade, onde no primeiro link analisei as posibilidades de criação das entidades para logo em seguida criar o modelo não relacional. C
 
 [Base de analise ao banco de dado da consessionária](https://github.com/luwzx/portfolio/blob/Portfolio/Banco%20de%20Dados/Banco%20de%20Dados%20Concession%C3%A1ria%20%20-%20P%C3%A1gina1.pdf)
 
@@ -137,10 +137,7 @@ Não tive dificuldades ao elaborar as anotações e tive como apoio alguns sites
 
 # Autoavaliação 
 
-Certamente o que posso evidenciar de dificuldade nesse trimestre foi a falta de concentração em aula, sempre tive uma certa dificuldade em me concentrar e durante as aulas não pude deixar despercebido. A sala está muito barulhenta, com pouco respeito aos professores que estão despenhando  e desenvolvendo as aulas e aos alunos que tentam se concentrar, por parte de alguns alunos ou por parte de toda a sala.
- Mesmo nas explicações ou até mesmo no "intervalo" livre para fazer as atividades proposta em aula, há muito barulho. Muitas vezes deixo de fazer as atividades em sala de aula por conta disso e acabo não fazendo em casa pois não tenho computador no momento.
+Em comparação do último trimestre,  fiquei mais desconcentrada, conforme tinha comentado por aqui desde o 1° trimestre  ainda tenho dificuldade em desenvolver minhas atividades sem sala pelo barulho extremo.  De acordo com uma pesquisa  da Associação Brasileira para a Qualidade Acústica,   o ruído em excesso pode causar diversos prejuízos à saúde, como estresse, falta de concentração e até uma progressiva perda auditiva, “Quanto maior a frequência a ambientes barulhentos ao longo da vida, maiores as chances de danos à audição. No ambiente escolar, a gritaria da turma, prejudica o bem-estar de todos, comprometendo não apenas a concentração e aprendizagem, mas também os ouvidos”, adverte a fonoaudióloga Marcella Vidal, da Telex Soluções Auditivas. A sala está muito barulhenta, com pouco respeito aos professores que estão despenhando e desenvolvendo as aulas e aos alunos que tentam se concentrar, por parte de alguns alunos ou por parte de toda a sala. 
+Em relação as atividades desenvolvidas esse trimestre, percebi que tive mais facilidade com atividades práticas, como comentei na área de matemática, justo por conseguir visualizar e ligar o objeto ao conteúdo. 
+Nas apresentações de trabalho, observei que minha oratória esta mais desenvolvida.
 
-
-# Validação do Portfólio
-
-Validação feita no dia 28 de Abril de 2022 pela professora Maria: "Esta tudo certo e completo".
